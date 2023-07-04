@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bhavin_portfolio/static/css/main.15b28176.css",
+    "main.js": "/bhavin_portfolio/static/js/main.3891d1e6.js",
+    "static/js/787.0379bb9f.chunk.js": "/bhavin_portfolio/static/js/787.0379bb9f.chunk.js",
+    "static/media/img5.png": "/bhavin_portfolio/static/media/img5.737d5af4a61ff2e1938c.png",
+    "static/media/img6.png": "/bhavin_portfolio/static/media/img6.a84eb91e0e5f59684066.png",
+    "static/media/Bhavin_resume.pdf": "/bhavin_portfolio/static/media/Bhavin_resume.431df8cedd5762945c84.pdf",
+    "static/media/img4.png": "/bhavin_portfolio/static/media/img4.e4cb29cafb91485669ab.png",
+    "static/media/bhavin2.JPEG": "/bhavin_portfolio/static/media/bhavin2.a98f5c958fd8973f8540.JPEG",
+    "static/media/img2.png": "/bhavin_portfolio/static/media/img2.d4a7da40b3da4188295e.png",
+    "static/media/img1.png": "/bhavin_portfolio/static/media/img1.628df234652865d5641f.png",
+    "static/media/img3_2.png": "/bhavin_portfolio/static/media/img3_2.e111a27d49647e50f9c4.png",
+    "static/media/laravel.webp": "/bhavin_portfolio/static/media/laravel.5b19f2e5de50224a7511.webp",
+    "static/media/ci.webp": "/bhavin_portfolio/static/media/ci.b861aa8d1352a145b30a.webp",
+    "index.html": "/bhavin_portfolio/index.html",
+    "main.15b28176.css.map": "/bhavin_portfolio/static/css/main.15b28176.css.map",
+    "main.3891d1e6.js.map": "/bhavin_portfolio/static/js/main.3891d1e6.js.map",
+    "787.0379bb9f.chunk.js.map": "/bhavin_portfolio/static/js/787.0379bb9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b28176.css",
+    "static/js/main.3891d1e6.js"
+  ]
+}
